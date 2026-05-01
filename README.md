@@ -1,25 +1,61 @@
-<h1 align="center">Hey 👋What's Up?</h1>
-
-###
-
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=py" height="60" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="60" alt="javascript logo"  />
+  <img height="150" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExYWp1cnlxNnM5ZXk5OThlOXVmdzhxMmszOTcwNGZja2Z0NmV1eTdydyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/26tn33aiTi1jkl6H6/giphy.gif"  />
 </div>
 
 ###
 
 <div align="center">
   <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=dev.to&logo=dev.to&label=&color=0A0A0A&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="devto logo"  />
+  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
+  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
 </div>
 
 ###
+
+<h3 align="center">Debora Cristina 👋<br>Desenvolvedora front-end em formação</h3>
+
+###
+
+<h3 align="left">👩‍💻  About Me</h3>
+
+###
+
+<h4 align="left">-Estudante de desenvolvimento front-end, focada em HTML, CSS e JAVASCRIPT.<br>Atualmente desenvolvendo projetos práticos para aprimorar minhas habilidades.</h4>
+
+###
+
+<h3 align="left">🛠 Language and tools</h3>
+
+###
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
+</div>
+
+###
+
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hsdW83bW9tamNmaXlybTQ5ZzluMHcxbXhqMDY2b2lzeXE1d2wyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
+</div>
+
+###
+
+<p align="left">
+  <a href="[https://www.linkedin.com/in/SEU-USUARIO](https://www.linkedin.com/feed/)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40"/>
+  </a>
+  
+  <a href="[mailto:SEUEMAIL@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox)">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="40"/>
+  </a>
+
+  <a href="https://wa.me/556192452057">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/whatsapp/whatsapp-original.svg" width="40"/>
+  </a>
+</p>

@@ -4,15 +4,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="whatsapp logo"  />
-</div>
-
-###
-
 <h3 align="center">Debora Cristina 👋<br>Desenvolvedora front-end em formação</h3>
 <div align="center">
   <img ... />
@@ -26,7 +17,7 @@
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="25" />
   </a>
 
-  <a href="[mailto:SEUEMAIL@gmail.com](https://mail.google.com/mail/u/1/?ogbl#inbox)">
+  <a href="[mailto:deborahpinho16@gmail.com]([https://mail.google.com/mail/u/1/?ogbl#inbox](https://mail.google.com/mail/u/1/?ogbl#inbox)">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="25" />
   </a>
 

@@ -28,8 +28,11 @@
 
 ###
 
-<h4 align="left">-Estudante de desenvolvimento front-end, com foco em HTML, CSS e JavaScript.
-Desenvolvendo projetos práticos e buscando evoluir constantemente na área.</h4>
+<h4 align="left">-Desenvolvedora front-end em formação 💻
+
+Focada em HTML, CSS e JavaScript, desenvolvendo projetos práticos para aprimorar minhas habilidades.
+
+Buscando evoluir constantemente e construir uma base sólida na área de tecnologia.</h4>
 
 ###
 

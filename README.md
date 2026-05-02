@@ -46,11 +46,3 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"  />
 </div>
 
-###
-
-<div align="center">
-  <img height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExb3hsdW83bW9tamNmaXlybTQ5ZzluMHcxbXhqMDY2b2lzeXE1d2wyYSZlcD12MV9naWZzX3JlbGF0ZWQmY3Q9Zw/iIqmM5tTjmpOB9mpbn/giphy.gif"  />
-</div>
-
-###
-
